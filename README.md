@@ -1,1 +1,1 @@
-# Skill Craft Technology Task 1 K - mean cluster
+# Skill Craft Technology Task 2 K - mean cluster
